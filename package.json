@@ -1,0 +1,54 @@
+{
+  "_from": "newman-reporter-junit-extended",
+  "_id": "newman-reporter-junitwb@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha1-tR3+Vv4WrnnShmvIw5M20f57o+E=",
+  "_location": "/newman-reporter-junitwb",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "newman-reporter-junitwb",
+    "name": "newman-reporter-junitwb",
+    "escapedName": "newman-reporter-junitwb",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "",
+  "_shasum": "b51dfe56fe16ae79d2866bc8c39336d1fe7ba3e1",
+  "_spec": "newman-reporter-junitwb",
+  "_where": "/root",
+  "bugs": {
+    "url": ""
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "lodash": "4.17.2",
+    "xmlbuilder": "9.0.1"
+  },
+  "deprecated": false,
+  "description": "An extended JUnit reporter for Newman without blank in testsuite name.",
+  "devDependencies": {
+    "should": "^9.0.0"
+  },
+  "homepage": "",
+  "keywords": [
+    "postman",
+    "newman"
+  ],
+  "license": "",
+  "main": "lib/index.js",
+  "name": "newman-reporter-junitwb",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
